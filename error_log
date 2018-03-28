@@ -1,0 +1,4 @@
+
+[26-Mar-2018 19:35:49 America/Los_Angeles] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ctools_context has a deprecated constructor in /home/interne5/public_html/sacredheartpreschool.org/sites/all/modules/ctools/includes/context.inc on line 30
+[26-Mar-2018 19:35:49 America/Los_Angeles] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ctools_context_required has a deprecated constructor in /home/interne5/public_html/sacredheartpreschool.org/sites/all/modules/ctools/includes/context.inc on line 93
+[26-Mar-2018 19:35:49 America/Los_Angeles] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ctools_context_optional has a deprecated constructor in /home/interne5/public_html/sacredheartpreschool.org/sites/all/modules/ctools/includes/context.inc on line 205
